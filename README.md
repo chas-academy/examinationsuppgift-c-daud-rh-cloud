@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/G22Vs7Up)
 # 🎓 Examination - Elevhanteringssystem
 
 Välkommen till detta prov i **Programmering i C**! Din uppgift är att skriva ett program som läser in provresultat, analyserar statistik och presenterar data för läraren.
@@ -87,7 +88,7 @@ Din kod rättas i steg. Även om du har småfel (t.ex. fel stor bokstav) kan du 
 Förutom koden ska du spela in en kort skärminspelning där du demonstrerar din lösning.
 
 1.  Spela in när du visar din lösning och berättar om hur den fungerar.
-2.  Döp filen till exakt: `videoprov.mp4`.
+2.  Döp filen till exakt: vedio.mp4
 3.  Lägg filen i rotmappen (samma ställe som denna README).
 4.  **OBS:** Filen får inte vara större än 100MB.
 
